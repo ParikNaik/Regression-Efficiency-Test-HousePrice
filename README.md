@@ -14,4 +14,25 @@ Objective: Housing Prices Predictor
 
 3.) Generate new dataframe and run additional test on those
 
-Dataset
+Dataset:
+
+-> 545 Samples
+
+-> 12 Features
+
+    -> Area
+    -> Bedrooms
+    -> Bathrooms
+    -> Stories
+    -> Mainroad
+    -> Guestroom
+    -> Basement
+    -> Hot Water heating
+    -> Air conditioning
+    -> Parking
+    -> Prefarea
+    -> Furnishing status
+
+-> 1 Response 
+
+    -> Price
