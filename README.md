@@ -1,4 +1,4 @@
-#Objective: Housing Prices Predictor
+Objective: Housing Prices Predictor
 
 1.) Test different regression methods (All using K-fold cross validation for training and testing)
 
