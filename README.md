@@ -1,6 +1,6 @@
 Objective: Housing Prices Predictor
 
-1.) Test different regression methods (All using K-fold cross validation for training and testing)
+1.) Test different regression methods
 
 -> Multiple Linear Regression
 
