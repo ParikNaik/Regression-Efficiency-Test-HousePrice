@@ -6,13 +6,9 @@ Objective: Housing Prices Predictor
 
 -> Lasso Regression
 
--> Ridge Regression
-
--> Polynomial Regression
+-> Log-transformed regression model
 
 2.) Best performing model will be tested for presence of insignificant coefficients (to be removed)
-
-3.) Generate new dataframe and run additional test on those
 
 Dataset:
 
